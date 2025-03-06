@@ -1,0 +1,49 @@
+.Logo{
+    position: absolute;
+    top: 1.5%;
+    left: 1%;
+    z-index: 20;
+    display: flex;
+}
+.Logo a{
+    text-decoration: none;
+}
+#FudanIcon img{
+    height: 5vh;
+}
+#SpaceNetIcon{
+    display: flex;
+    align-items:flex-end;
+    margin-left: 10px;
+    /* height: 6vh; */
+}
+#SpaceNetIcon .Logo{
+    /* width: 6vh; */
+    height: 5vh;
+    /* border-radius: 50%;  */
+}
+#SpaceNetIcon .Word{
+    /* width: 11vh; */
+    /* margin-left: 5px; */
+    padding-top: 1.5%;
+    height: 5vh;
+    /* border-radius: 50%;  */
+}
+#SpaceNetIcon .word_{
+    /* width: 11vh; */
+    /* height: 2.5vh; */
+    /* border-radius: 50%;  */
+    color: rgb(255, 255, 255);
+    /* font-size: 2vh; */
+    width: 100%;
+    font-weight: bold
+}
+#SpaceNet {
+    margin-left: 1vh;
+    display: flex;
+    font-size: 2vh;
+    font-weight: bold;
+    color: rgb(75, 175, 255);
+    align-items:flex-end;
+    text-decoration: none;
+}

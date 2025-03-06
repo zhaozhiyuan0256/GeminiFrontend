@@ -1,0 +1,31 @@
+#menuFrame {
+    position: absolute;
+    top: 8%;
+    left: 1.5%;
+    width: 36vh;
+    /* height: 50vh; */
+    background-color: rgba(57, 57, 57, 0.5);
+    z-index: 4;
+    justify-content: center;
+}
+
+#menuFrame .frame-element {
+    margin: 2vh;
+}
+
+#experimentFrame {
+    position: absolute;
+    top: 8%;
+    right: 1.5%;
+    width: 36vh;
+    /* height: 60vh; */
+    background-color: rgba(57, 57, 57, 0.5);
+    z-index: 4;
+}
+
+
+.LogoContainer {
+    position: absolute;
+    top: 1.5%;
+    left: 1%;
+}
